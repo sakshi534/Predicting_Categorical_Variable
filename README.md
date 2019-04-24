@@ -5,7 +5,7 @@ The data is in a folder that contains 100 identically formatted csv files.  Each
 Following steps are to be covered:
 1. Import the files and merge them into a single dataset.
 
-2. Conduct exploratory steps you would on any new dataset, including any visuals to describe the dataset.
+2. Conduct exploratory steps to describe the dataset.
 
 3. Create a model to predict the binary categorical variable named “target” including:
 
@@ -15,4 +15,4 @@ b. A methodology to determine whether and to what level the model is over-fit.
 
 c. An analysis of: Most Important variables, Direction of effect of the variables, quality of the fit.
 
-d. Any visualizations you would create to explain the model to business users.
+d. Any visualizations to explain the model to business users.
